@@ -1,3 +1,4 @@
+# 完成了Git基础练习，如何合并master和main？本地没有main分支
 # Git基础练习
 
 本项目用与Git基础命令训练。
